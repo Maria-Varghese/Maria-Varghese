@@ -1,6 +1,7 @@
 ## Hi there <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 ## My name is Maria and I'm a student 
- 
+ ## ✍ Programming Languages
+ <img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
   
 <!--
 **Maria-Varghese/Maria-Varghese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
