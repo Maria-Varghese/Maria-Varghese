@@ -1,7 +1,6 @@
 ## Hi there 👋
 ## My name is Maria and I'm a student 
- <h2>✍ Programming Languages</h2>
-<>
+ 
   
 <!--
 **Maria-Varghese/Maria-Varghese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
