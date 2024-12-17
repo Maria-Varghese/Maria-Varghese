@@ -1,6 +1,6 @@
 ## Hi there 👋
-## My name is Maria a student 
-## <h2>✍ Programming Languages</h2>
+## My name is Maria and I'm a student 
+ <h2>✍ Programming Languages</h2>
 <>
   
 <!--
