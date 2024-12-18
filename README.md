@@ -1,5 +1,5 @@
-## Hi there <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-## My name is Maria and I'm a student 
+## Hi there <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>!
+## 😄 My name is Maria and I'm a student.
 
 <a href="https://myoctocat.dev/@sw-yx/octocat">
   <img align="center" src="https://user-images.githubusercontent.com/6764957/101532175-1cda1580-39cf-11eb-92fc-8466f97122fc.png" width=250 />
